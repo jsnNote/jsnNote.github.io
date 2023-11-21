@@ -6,3 +6,4 @@ Gemfile.lock
 _site
 *.gem
 _posts/2017-03-01-welcome-to-jekyll.md
+._posts/2017-03-01-welcome-to-jekyll.md
