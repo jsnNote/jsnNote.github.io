@@ -2,7 +2,7 @@ title: "jsn's blog"
 author: 'jsn'
 description: 'Made with <b style="color: #f45;">&lt;3</b>'
 permalink: /:title/
-lang: 'en'
+lang: 'ko-KR'
 excerpt_separator: "\n\n\n"
 date_format: '%Y %B %d'
 
